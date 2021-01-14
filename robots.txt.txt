@@ -1,5 +1,0 @@
-# Group 1
-User-agent: Googlebot
-Allow: /
-
-Sitemap: https://www.example.com/sitemap.xml

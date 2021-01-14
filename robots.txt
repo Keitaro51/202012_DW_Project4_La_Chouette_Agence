@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://keitaro51.github.io/RomainCharlot_4_30122020/sitemap.xml
